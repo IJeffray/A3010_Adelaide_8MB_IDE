@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=A3010_Adelaide_8MB_IDE.PrjPcb
+[Project2]
+ProjectPath=MEMC_FFC.PrjPcb
+[Project4]
+ProjectPath=..\A3000_16MB\A3000_16MB.PrjPcb
